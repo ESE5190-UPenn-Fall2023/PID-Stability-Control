@@ -1,4 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/NZx8S8dt)
-# ESE5190 Final Project
+# PID Ball Balancing System
 
-Use this repository for your Final project.
+## 🚀 Setup Guide
+
+1. Create an Atmel Studio project for Atmega328P with `uart.h`, `uart.c`, and `main.c`. Build the project and send to
+   Arduino.
+2. Open `blynk.ino` inside Arduino IDE and build for Adafruit esp32 Feather v2. Send the code to esp32.
+3. Watch the magic happen!
+
+## 🔮 Demos
+
+Check out more about our project on
+our [Devpost](https://devpost.com/software/ball-stability-control-using-pid-controller) page!
+
+[Here](https://www.youtube.com/watch?v=rWQ8Ez3nQEM) is a demo video of our working system.
